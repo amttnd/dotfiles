@@ -1,5 +1,5 @@
 if [[ ! `pidof gammastep` ]]; then
-	gammastep -PO 4500
+	gammastep -PO 3500
 else
 	pkill gammastep
 fi
