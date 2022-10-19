@@ -1,8 +1,10 @@
 alacritty
+bat
 brave-bin
 dracula-cursors-git
 dracula-gtk-theme-git
 eww-git
+exa
 git
 gammastep
 google-chrome
@@ -14,6 +16,7 @@ nerd-fonts-ibm-plex-mono
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
+mcfly
 pamixer
 papirus-icon-theme-git
 pavucontrol
