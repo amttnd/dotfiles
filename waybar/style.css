@@ -25,7 +25,6 @@ window#waybar {
   color: @theme_text_color;
   margin: 2px 4px;
   padding: 0px 8px;
-  border-radius: 10px;
 }
 
 #workspaces button.active {
