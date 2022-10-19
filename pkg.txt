@@ -1,8 +1,6 @@
 alacritty
 bat
 brave-bin
-dracula-cursors-git
-dracula-gtk-theme-git
 eww-git
 exa
 git
@@ -23,4 +21,8 @@ pavucontrol
 playerctl
 rofi-lbonn-wayland-git
 visual-studio-code-bin
+gnome-keyring
 waybar-hyprland
+catppuccin-gtk-theme-mocha
+cava
+cbonsai
