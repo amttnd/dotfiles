@@ -20,7 +20,7 @@
   },
   // Module Center
   "custom/weather": {
-    "exec": "curl 'https://wttr.in/Ho-Chi-Minh?format=%l+%f+%h+w'",
+    "exec": "curl 'https://wttr.in/Ho-Chi-Minh?format=%l+%f+%h+%w'",
     "interval": 60
   },
   // Module Right
