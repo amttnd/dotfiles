@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 
-dir="$HOME/.config/rofi/launcher"
-
-## Run
-rofi \
+if [[ ! `pidof rofi` ]]; then
+  # Current Theme
+  dir="$HOME/.config/rofi/launcher"
+	## Run
+  rofi \
     -show drun \
     -theme ${dir}/theme.rasi
+fi
