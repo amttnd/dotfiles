@@ -26,3 +26,6 @@ waybar-hyprland
 catppuccin-gtk-theme-mocha
 cava
 cbonsai
+btop
+unzip
+wget

@@ -1,0 +1,6 @@
+[core]
+	autocrlf = false
+	filemode = false
+[user]
+	name = "tam-nd"
+	email = "ndtamhcmus@gmail.com"
