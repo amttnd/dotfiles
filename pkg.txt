@@ -21,6 +21,8 @@ playerctl
 rofi-lbonn-wayland-git
 visual-studio-code-bin
 gnome-keyring
+libsecret
+libgnome-keyring
 waybar-hyprland
 catppuccin-gtk-theme-mocha
 cava
@@ -30,3 +32,8 @@ unzip
 wget
 grim
 slurp
+pipewire
+pipewire-pulse
+pipewire-media-session
+mako
+emptty
