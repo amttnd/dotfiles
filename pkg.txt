@@ -14,7 +14,6 @@ nerd-fonts-ibm-plex-mono
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
-mcfly
 pamixer
 papirus-icon-theme-git
 pavucontrol
@@ -29,3 +28,5 @@ cbonsai
 btop
 unzip
 wget
+grim
+slurp
